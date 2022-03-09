@@ -1,0 +1,21 @@
+html {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: blueviolet;
+  background-color: aqua;
+}
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: blueviolet;
+}
+h1 {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  display: inline;
+  text-align: center;
+  color: blueviolet;
+}
+a {
+  color: #00B7FF;
+}
